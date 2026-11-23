@@ -10,6 +10,12 @@
 |------|------|
 | `apps/qtstore` | 量潮门店中心——门店信息与顾客入口站点 (git submodule → qtstore) |
 
+## 实验室
+
+| 路径 | 说明 |
+|------|------|
+| `examples/quanttide-store-lab` | 量潮门店管理实验室——实验性与原型项目的入口 (git submodule → quanttide-store-lab) |
+
 ## 许可
 
 [CC BY 4.0](LICENSE)

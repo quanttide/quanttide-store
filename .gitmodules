@@ -1,3 +1,6 @@
 [submodule "apps/qtstore"]
 	path = apps/qtstore
 	url = https://github.com/quanttide/qtstore.git
+[submodule "examples/quanttide-store-lab"]
+	path = examples/quanttide-store-lab
+	url = https://github.com/quanttide/quanttide-store-lab.git
